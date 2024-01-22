@@ -1,6 +1,6 @@
 name = "kladky" 
 currently_learning = ()
-looking_to_collaborate = ('all')
+looking_to_collaborate = []
 
 
 <!---
